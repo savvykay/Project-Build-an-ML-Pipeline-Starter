@@ -1,4 +1,5 @@
 wandb link: https://wandb.ai/skgray-western-governors-university/nyc_airbnb/overview
+github link: https://github.com/savvykay/Project-Build-an-ML-Pipeline-Starter/tree/main
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
